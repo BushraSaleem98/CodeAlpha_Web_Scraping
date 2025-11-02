@@ -75,7 +75,8 @@ df.to_excel("scraped_data.xlsx", index=False)
 # -----------------------------
 # Step 7: Confirmation Message
 # -----------------------------
-print("✅ Web scraping completed successfully!")
-print("📁 Files created:")
+print("Web scraping completed successfully!")
+print("Files created:")
 print("   → scraped_data.csv")
 print("   → scraped_data.xlsx")
+
